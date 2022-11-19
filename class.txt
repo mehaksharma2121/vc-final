@@ -1,13 +1,13 @@
 Crimson
-Orange
+Mango
 Green
 Cyan
 Yellow
-Ivory
-Khaki
+Teal
+Rust
 Coral
 Silver
 Fuchsia
 Gray
-Brown
+Black
 Red
